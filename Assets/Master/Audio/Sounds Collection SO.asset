@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ca304eacf457c448067dfe960526b9, type: 3}
+  m_Name: Sounds Collection SO
+  m_EditorClassIdentifier: 
+  BGMusic:
+  - {fileID: 11400000, guid: 840b15d435a1c3e41945d154d9408a23, type: 2}
+  TurretShoot:
+  - {fileID: 11400000, guid: d53b765fd9fc26b4e89d11c04cfc9f1e, type: 2}
+  - {fileID: 11400000, guid: 43b8f33fd337b5c45bc45b9057d75eff, type: 2}
+  - {fileID: 11400000, guid: 0ac57f3d91daaaf4fae0011a66338a80, type: 2}
+  Explode:
+  - {fileID: 11400000, guid: 4bbbed98345ae1a4dbd21f5d791301d8, type: 2}
+  EnemyHit:
+  - {fileID: 11400000, guid: 4ee3425bd561071489d65cabb499e427, type: 2}
